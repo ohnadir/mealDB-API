@@ -1,0 +1,9 @@
+/* #food-contianer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+} */
+/* .food{
+    margin: 10px;
+    padding: 10px;
+} */
